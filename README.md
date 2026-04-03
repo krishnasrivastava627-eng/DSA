@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
+## String
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
