@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
