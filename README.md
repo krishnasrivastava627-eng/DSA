@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 ## Stack
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
