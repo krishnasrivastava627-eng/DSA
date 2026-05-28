@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
