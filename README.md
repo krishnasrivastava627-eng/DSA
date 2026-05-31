@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
