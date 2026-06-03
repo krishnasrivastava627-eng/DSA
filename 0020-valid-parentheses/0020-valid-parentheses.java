@@ -1,21 +1,23 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();
-
-        for(char ch : s.toCharArray()){
-            if(ch == '(' || ch=='{'||ch=='['){
-                st.push(ch);
-            }
-            else{
-                if(st.isEmpty()){
-                    return false;
-                }
-                char top = st.pop();
-                if(ch == ')' && top !='(' || ch=='}' && top !='{' || ch==']' && top != '['){
-                    return false;
-                }
+        Deque<Character> stack = new ArrayDeque<>();
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '[' || c == '{') {
+                stack.push(c); // opener: remember it
+            } else {
+                if (stack.isEmpty())
+                    return false; // failure mode 1
+                char open = stack.pop();
+                if (!matches(open, c))
+                    return false; // your "top must match" rule
             }
         }
-        return st.isEmpty();
+        return stack.isEmpty(); // failure mode 2
+    }
+
+    private boolean matches(char open, char close) {
+        return (open == '(' && close == ')')
+                || (open == '[' && close == ']')
+                || (open == '{' && close == '}');
     }
 }
