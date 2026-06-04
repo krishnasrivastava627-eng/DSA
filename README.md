@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
