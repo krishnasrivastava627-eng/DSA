@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
