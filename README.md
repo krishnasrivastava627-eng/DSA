@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0326-power-of-three) |
 ## Prefix Sum
 |  |
 | ------- |
