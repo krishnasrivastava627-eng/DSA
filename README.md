@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
