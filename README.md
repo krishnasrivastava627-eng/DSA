@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
