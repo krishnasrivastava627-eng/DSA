@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Two Pointers
 |  |
@@ -211,10 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
