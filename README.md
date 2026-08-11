@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
