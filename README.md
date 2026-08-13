@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
