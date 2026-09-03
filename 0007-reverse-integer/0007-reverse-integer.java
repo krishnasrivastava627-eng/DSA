@@ -11,5 +11,6 @@ class Solution {
         }
         int b= (int) number;
         return b;
+        
     }
 }
