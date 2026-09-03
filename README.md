@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0520-detect-capital](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
