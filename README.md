@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3903-smallest-stable-index-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
