@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Two Pointers
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -318,4 +321,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
