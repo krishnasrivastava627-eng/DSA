@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
 ## Combinatorics
 |  |
