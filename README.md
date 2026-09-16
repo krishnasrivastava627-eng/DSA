@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0134-gas-station) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
