@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 ## Simulation
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
