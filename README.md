@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0202-happy-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0231-power-of-two) |
