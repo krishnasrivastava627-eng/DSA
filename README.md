@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0739-daily-temperatures) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -363,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
