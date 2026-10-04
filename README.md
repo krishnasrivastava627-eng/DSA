@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0043-multiply-strings) |
 | [0383-ransom-note](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0844-backspace-string-compare) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Minimax
 |  |
 | ------- |
