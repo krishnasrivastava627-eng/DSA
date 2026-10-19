@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0520-detect-capital) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
