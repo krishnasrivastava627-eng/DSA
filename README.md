@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0875-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
