@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0682-baseball-game) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0771-jewels-and-stones) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/krishnasrivastava627-eng/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
 ## Combinatorics
 |  |
