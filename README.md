@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0518-coin-change-ii) |
 | [0575-distribute-candies](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/krishnasrivastava627-eng/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
